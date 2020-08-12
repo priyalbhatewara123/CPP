@@ -1,19 +1,2 @@
-s0 : Hello World
-s1 : Hello world
-s2 : Hello world
-s3 : Hello world
-s4 : abc 0
-s5 is empty
-I love cpp
-s5 : I love cpp and python
-21
-0
-s4: abc
-s5: 
-0
-3
--3
-s4 is greater
-18
-I want to have an apple juice
-I want to have an juice
+hello myself 
+ priyal
